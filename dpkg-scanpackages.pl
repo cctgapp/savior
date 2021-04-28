@@ -12,45 +12,45 @@ my $dpkglibdir="/usr/lib/dpkg"; # This line modified by Makefile
 ($0) = $0 =~ m:.*/(.+):;
 
 push(@INC,$dpkglibdir);
-require 'dpkg-gettext.pl';
+require './dpkg-gettext.pl';
 textdomain("dpkg-dev");
 
 my %kmap= (optional         => 'suggests',
-     recommended      => 'recommends',
-     class            => 'priority',
-     package_revision => 'revision',
-    );
+	   recommended      => 'recommends',
+	   class            => 'priority',
+	   package_revision => 'revision',
+	  );
 
 my @fieldpri= ('Package',
-         'Source',
-         'Version',
-         'Priority',
-         'Section',
-         'Essential',
-         'Maintainer',
-         'Pre-Depends',
-         'Depends',
-         'Recommends',
-         'Suggests',
-         'Conflicts',
-         'Provides',
-         'Replaces',
-         'Enhances',
-         'Architecture',
-         'Filename',
-         'Size',
-         'Installed-Size',
-         'MD5sum',
-         'Description',
-         'Origin',
-         'Bugs',
+	       'Source',
+	       'Version',
+	       'Priority',
+	       'Section',
+	       'Essential',
+	       'Maintainer',
+	       'Pre-Depends',
+	       'Depends',
+	       'Recommends',
+	       'Suggests',
+	       'Conflicts',
+	       'Provides',
+	       'Replaces',
+	       'Enhances',
+	       'Architecture',
+	       'Filename',
+	       'Size',
+	       'Installed-Size',
+	       'MD5sum',
+	       'Description',
+	       'Origin',
+	       'Bugs',
                'Name',
                'Author',
                'Homepage',
                'Website',
                'Depiction',
                'Icon'
-        );
+	      );
 
 # This maps the fields into the proper case
 my %field_case;
@@ -59,11 +59,11 @@ my %field_case;
 use Getopt::Long qw(:config bundling);
 
 my %options = (help            => sub { &usage; exit 0; },
-         version         => \&version,
-         udeb            => 0,
-         arch            => undef,
-         multiversion    => 0,
-        );
+	       version         => \&version,
+	       udeb            => 0,
+	       arch            => undef,
+	       multiversion    => 0,
+	      );
 
 my $result = GetOptions(\%options,'help|h|?','version','udeb|u!','arch|a=s','multiversion|m!');
 
@@ -75,6 +75,7 @@ sub version {
 sub usage {
     printf _g(
 "Usage: %s [<option> ...] <binarypath> <overridefile> [<pathprefix>] > Packages
+
 Options:
   -u, --udeb               scan for udebs.
   -a, --arch <arch>        architecture to scan for.
@@ -122,71 +123,71 @@ open($find_h,'-|','find',"$binarydir/",@find_args,'-print')
                     $binarydir, $!)."\n";
 FILE:
     while (<$find_h>) {
-  chomp;
-  my $fn = $_;
-  my $control = `dpkg-deb -I $fn control`;
-  if ($control eq "") {
-      warn sprintf(_g("Couldn't call dpkg-deb on %s: %s, skipping package"), $fn, $!)."\n";
-      next;
-  }
-  if ($?) {
-      warn sprintf(_g("\`dpkg-deb -I %s control' exited with %d, skipping package"), $fn, $?)."\n";
-      next;
-  }
-  
-  my %tv = ();
-  my $temp = $control;
-  while ($temp =~ s/^\n*(\S+):[ \t]*(.*(\n[ \t].*)*)\n//) {
-      my ($key,$value)= (lc $1,$2);
-      if (defined($kmap{$key})) { $key= $kmap{$key}; }
-      if (defined($field_case{$key})) { $key= $field_case{$key}; }
-      $value =~ s/\s+$//;
-      $tv{$key}= $value;
-  }
-  $temp =~ /^\n*$/
-      or die sprintf(_g("Unprocessed text from %s control file; info:\n%s / %s\n"), $fn, $control, $temp);
-  
-  defined($tv{'Package'})
-      or die sprintf(_g("No Package field in control file of %s"), $fn)."\n";
-  my $p= $tv{'Package'}; delete $tv{'Package'};
-  
-  if (defined($packages{$p}) and not $options{multiversion}) {
-      foreach (@{$packages{$p}}) {
-    if (&vercmp($tv{'Version'}, $_->{'Version'})) {
-        printf(STDERR _g(
-        " ! Package %s (filename %s) is repeat but newer version;\n".
-        "   used that one and ignored data from %s !\n"), $p, $fn, $_->{Filename})
-      || die $!;
-        $packages{$p} = [];
-    } else {
-        printf(STDERR _g(
-        " ! Package %s (filename %s) is repeat;\n".
-        "   ignored that one and using data from %s !\n"), $p, $fn, $_->{Filename})
-      or die $!;
-        next FILE;
-    }
-      }
-  }
-  printf(STDERR _g(" ! Package %s (filename %s) has Filename field!\n"), $p, $fn) || die $!
-      if defined($tv{'Filename'});
-  
-  $tv{'Filename'}= "$pathprefix$fn";
-  
-  open(C,"md5 <$fn |") || die "$fn $!";
-  chop($_=<C>); close(C); $? and die sprintf(_g("\`md5sum < %s' exited with %d"), $fn, $?)."\n";
-  /^([0-9a-f]{32})\s*-?\s*$/ or die sprintf(_g("Strange text from \`md5sum < %s': \`%s'"), $fn, $_)."\n";
-  $tv{'MD5sum'}= $1;
-  
-  my @stat= stat($fn) or die sprintf(_g("Couldn't stat %s: %s"), $fn, $!)."\n";
-  $stat[7] or die sprintf(_g("%s is empty"), $fn)."\n";
-  $tv{'Size'}= $stat[7];
-  
-  if (defined $tv{Revision} and length($tv{Revision})) {
-      $tv{Version}.= '-'.$tv{Revision};
-      delete $tv{Revision};
-  }
-  
-  push @{$packages{$p}}, {%tv};
+	chomp;
+	my $fn = $_;
+	my $control = `dpkg-deb -I $fn control`;
+	if ($control eq "") {
+	    warn sprintf(_g("Couldn't call dpkg-deb on %s: %s, skipping package"), $fn, $!)."\n";
+	    next;
+	}
+	if ($?) {
+	    warn sprintf(_g("\`dpkg-deb -I %s control' exited with %d, skipping package"), $fn, $?)."\n";
+	    next;
+	}
+
+	my %tv = ();
+	my $temp = $control;
+	while ($temp =~ s/^\n*(\S+):[ \t]*(.*(\n[ \t].*)*)\n//) {
+	    my ($key,$value)= (lc $1,$2);
+	    if (defined($kmap{$key})) { $key= $kmap{$key}; }
+	    if (defined($field_case{$key})) { $key= $field_case{$key}; }
+	    $value =~ s/\s+$//;
+	    $tv{$key}= $value;
+	}
+	$temp =~ /^\n*$/
+	    or die sprintf(_g("Unprocessed text from %s control file; info:\n%s / %s\n"), $fn, $control, $temp);
+
+	defined($tv{'Package'})
+	    or die sprintf(_g("No Package field in control file of %s"), $fn)."\n";
+	my $p= $tv{'Package'}; delete $tv{'Package'};
+
+	if (defined($packages{$p}) and not $options{multiversion}) {
+	    foreach (@{$packages{$p}}) {
+		if (&vercmp($tv{'Version'}, $_->{'Version'})) {
+		    printf(STDERR _g(
+			  " ! Package %s (filename %s) is repeat but newer version;\n".
+			  "   used that one and ignored data from %s !\n"), $p, $fn, $_->{Filename})
+			|| die $!;
+		    $packages{$p} = [];
+		} else {
+		    printf(STDERR _g(
+			  " ! Package %s (filename %s) is repeat;\n".
+			  "   ignored that one and using data from %s !\n"), $p, $fn, $_->{Filename})
+			or die $!;
+		    next FILE;
+		}
+	    }
+	}
+	printf(STDERR _g(" ! Package %s (filename %s) has Filename field!\n"), $p, $fn) || die $!
+	    if defined($tv{'Filename'});
+
+	$tv{'Filename'}= "$pathprefix$fn";
+
+	open(C,"md5sum <$fn |") || die "$fn $!";
+	chop($_=<C>); close(C); $? and die sprintf(_g("\`md5sum < %s' exited with %d"), $fn, $?)."\n";
+	/^([0-9a-f]{32})\s*-?\s*$/ or die sprintf(_g("Strange text from \`md5sum < %s': \`%s'"), $fn, $_)."\n";
+	$tv{'MD5sum'}= $1;
+
+	my @stat= stat($fn) or die sprintf(_g("Couldn't stat %s: %s"), $fn, $!)."\n";
+	$stat[7] or die sprintf(_g("%s is empty"), $fn)."\n";
+	$tv{'Size'}= $stat[7];
+
+	if (defined $tv{Revision} and length($tv{Revision})) {
+	    $tv{Version}.= '-'.$tv{Revision};
+	    delete $tv{Revision};
+	}
+
+	push @{$packages{$p}}, {%tv};
     }
 close($find_h);
 
@@ -220,26 +221,26 @@ while (<$override_fh>) {
     my ($p,$priority,$section,$maintainer)= split(/\s+/,$_,4);
     next unless defined($packages{$p});
     for my $package (@{$packages{$p}}) {
-   if ($maintainer) {
-        if ($maintainer =~ m/(.+?)\s*=\>\s*(.+)/) {
-       my $oldmaint= $1;
-       my $newmaint= $2;
-       my $debmaint= $$package{Maintainer};
-       if (!grep($debmaint eq $_, split(m:\s*//\s*:, $oldmaint))) {
-      push(@changedmaint,
-           "  $p (package says $$package{Maintainer}, not $oldmaint)\n");
-       } else {
-      $$package{Maintainer}= $newmaint;
-       }
-         } elsif ($$package{Maintainer} eq $maintainer) {
-       push(@samemaint,"  $p ($maintainer)\n");
-         } else {
-       printf(STDERR _g(" * Unconditional maintainer override for %s *")."\n", $p) || die $!;
-       $$package{Maintainer}= $maintainer;
-         }
-    }
-   $$package{Priority}= $priority;
-   $$package{Section}= $section;
+	 if ($maintainer) {
+	      if ($maintainer =~ m/(.+?)\s*=\>\s*(.+)/) {
+		   my $oldmaint= $1;
+		   my $newmaint= $2;
+		   my $debmaint= $$package{Maintainer};
+		   if (!grep($debmaint eq $_, split(m:\s*//\s*:, $oldmaint))) {
+			push(@changedmaint,
+			     "  $p (package says $$package{Maintainer}, not $oldmaint)\n");
+		   } else {
+			$$package{Maintainer}= $newmaint;
+		   }
+	       } elsif ($$package{Maintainer} eq $maintainer) {
+		   push(@samemaint,"  $p ($maintainer)\n");
+	       } else {
+		   printf(STDERR _g(" * Unconditional maintainer override for %s *")."\n", $p) || die $!;
+		   $$package{Maintainer}= $maintainer;
+	       }
+	  }
+	 $$package{Priority}= $priority;
+	 $$package{Section}= $section;
     }
     $overridden{$p} = 1;
 }
@@ -253,14 +254,14 @@ for my $p (sort keys %packages) {
         push(@missingover,$p);
     }
     for my $package (@{$packages{$p}}) {
-   my $record= "Package: $p\n";
-   for my $key (@fieldpri) {
-        next unless defined $$package{$key};
-        $record .= "$key: $$package{$key}\n";
-   }
-   $record .= "\n";
-   $records_written++;
-   print(STDOUT $record) or die sprintf(_g("Failed when writing stdout: %s"), $!)."\n";
+	 my $record= "Package: $p\n";
+	 for my $key (@fieldpri) {
+	      next unless defined $$package{$key};
+	      $record .= "$key: $$package{$key}\n";
+	 }
+	 $record .= "\n";
+	 $records_written++;
+	 print(STDOUT $record) or die sprintf(_g("Failed when writing stdout: %s"), $!)."\n";
     }
 }
 close(STDOUT) or die sprintf(_g("Couldn't close stdout: %s"), $!)."\n";
