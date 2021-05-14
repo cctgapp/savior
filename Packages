@@ -132,6 +132,21 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.pfatego
+Version: 0.1.4
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//FateGoApp0.1.4.deb
+Size: 11639354
+MD5sum: 2957ee3af69f2ef60e178646a5892d92
+Description: Fate/Grand Order patch. 1. One Hit Kill.
+Name: pFateGo
+Author: Savior
+Homepage: 
+Depiction: 
+
+Package: tw.blogspot.myappios.pfatego
 Version: 0.1.3
 Section: Apps
 Maintainer: Savior
