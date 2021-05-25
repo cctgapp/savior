@@ -296,6 +296,21 @@ Author: Savior
 Homepage: 
 Depiction: 
 
+Package: tw.blogspot.myappios.pmyhero
+Version: 0.2.1-1
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//MyHeros0.2.1-1.deb
+Size: 11555368
+MD5sum: 0cf8ae999b8e0d5ee6141670965c745a
+Description: My Heros patch. 1. Attack multiplier. 2. Speed multiplier. 3. Enemy attack divisor. 4. Attack speed multiplier. 5. Auto Collect Item. 6. Wall Hack.
+Name: pMyHeros
+Author: Savior
+Homepage: 
+Depiction: 
+
 Package: tw.blogspot.myappios.pnightagent
 Version: 0.1.4
 Section: Apps
