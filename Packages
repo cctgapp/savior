@@ -417,6 +417,20 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.psoloknight
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//tw.blogspot.myappios.psoloknight_0.0.4_iphoneos-arm.deb
+Size: 22162
+Installed-Size: 104
+MD5sum: 1f9899734e11fa796436e12d74597a5a
+Description: Patch for Solo Knight 1.1.117. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
+Name: pSoloKnight
+Author: Savior
+
+Package: tw.blogspot.myappios.psoloknight
 Version: 0.0.3
 Section: Tweaks
 Maintainer: Savior
@@ -430,19 +444,20 @@ Description: Patch for Solo Knight 1.1.112. 1. Damage X 100(攻擊100倍). 2. In
 Name: pSoloKnight
 Author: Savior
 
-Package: tw.blogspot.myappios.psoloknight
-Version: 0.0.2
-Section: Tweaks
+Package: tw.blogspot.myappios.psoulknight
+Version: 0.2.4
+Section: Apps
 Maintainer: Savior
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Architecture: iphoneos-arm
-Filename: debs//tw.blogspot.myappios.psoloknight_0.0.2_iphoneos-arm.deb
-Size: 22256
-Installed-Size: 104
-MD5sum: 7ffb3b82d8d2592d7801a56dc50162f1
-Description: Patch for Solo Knight 1.1.102. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
-Name: pSoloKnight
+Filename: debs//SoulKnight0.2.4.deb
+Size: 11604832
+MD5sum: ec9d3954c53176fed28dde9738eb1823
+Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Energy Multiplier.
+Name: pSoulKnight
 Author: Savior
+Homepage: 
+Depiction: 
 
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.3
