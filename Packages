@@ -417,6 +417,20 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.psoloknight
+Version: 0.0.5
+Section: Tweaks
+Maintainer: Savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//tw.blogspot.myappios.psoloknight_0.0.5_iphoneos-arm.deb
+Size: 22304
+Installed-Size: 104
+MD5sum: c456a29e4a99510ff6defe60018008c3
+Description: Patch for Solo Knight 1.1.122. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
+Name: pSoloKnight
+Author: Savior
+
+Package: tw.blogspot.myappios.psoloknight
 Version: 0.0.4
 Section: Tweaks
 Maintainer: Savior
@@ -427,20 +441,6 @@ Size: 22162
 Installed-Size: 104
 MD5sum: 1f9899734e11fa796436e12d74597a5a
 Description: Patch for Solo Knight 1.1.117. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
-Name: pSoloKnight
-Author: Savior
-
-Package: tw.blogspot.myappios.psoloknight
-Version: 0.0.3
-Section: Tweaks
-Maintainer: Savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//tw.blogspot.myappios.psoloknight_0.0.3_iphoneos-arm.deb
-Size: 22236
-Installed-Size: 104
-MD5sum: 10fec2182c902c2fe2216463435c941d
-Description: Patch for Solo Knight 1.1.112. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
 Name: pSoloKnight
 Author: Savior
 
