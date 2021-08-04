@@ -431,16 +431,16 @@ Name: pSoloKnight
 Author: Savior
 
 Package: tw.blogspot.myappios.psoloknight
-Version: 0.0.4
+Version: 0.0.6
 Section: Tweaks
 Maintainer: Savior
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs//tw.blogspot.myappios.psoloknight_0.0.4_iphoneos-arm.deb
-Size: 22162
+Filename: debs//tw.blogspot.myappios.psoloknight_0.0.6_iphoneos-arm.deb
+Size: 22472
 Installed-Size: 104
-MD5sum: 1f9899734e11fa796436e12d74597a5a
-Description: Patch for Solo Knight 1.1.117. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
+MD5sum: 0326461086c17dcd875704191cd5ac39
+Description: Patch for Solo Knight 1.1.128. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
 Name: pSoloKnight
 Author: Savior
 
@@ -589,6 +589,21 @@ Size: 11222106
 MD5sum: 73d2be3e9b70d824d0023b141fcf9ec9
 Description: Zooba patch. 1. Enable map hack. 2. Sight Radius. 3. Ignore Prohibit. 4. Zoom.
 Name: pZooba
+Author: Savior
+Homepage: 
+Depiction: 
+
+Package: tw.blogspot.myappios.tospatchsetting
+Version: 0.8.11
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: debs//tospSetting0.9.00.deb
+Size: 11902726
+MD5sum: 9422b0ab6ee7208b82b2d1786f57c2eb
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
+Name: tosp設定
 Author: Savior
 Homepage: 
 Depiction: 
