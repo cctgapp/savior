@@ -505,6 +505,21 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.pstateofsurvival
+Version: 0.2.0
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//StateOfSurvival0.2.0.deb
+Size: 11951338
+MD5sum: 4f91f80eb187b52747c007a904c8db44
+Description: State Of Survival patch. 1. Bothside attack multiplier.
+Name: pStateOfSurvival
+Author: Savior
+Homepage: 
+Depiction: 
+
+Package: tw.blogspot.myappios.pstateofsurvival
 Version: 0.1.2
 Section: Apps
 Maintainer: Savior
