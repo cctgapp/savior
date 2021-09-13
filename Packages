@@ -56,6 +56,21 @@ Author: Savior
 Homepage: 
 Depiction: 
 
+Package: tw.blogspot.myappios.parknights
+Version: 0.2.0
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: debs//Arknights0.2.0.deb
+Size: 11990698
+MD5sum: f8cb2163acb05476115aac9c79144d88
+Description: pArknights(明日方舟): 1. HP/SP/Atk Speed/Attack/Defense multiplier. 2. Accelerate?
+Name: pArknights
+Author: Savior
+Homepage: 
+Depiction: 
+
 Package: tw.blogspot.myappios.pcloudia
 Version: 0.1.1
 Section: Apps
