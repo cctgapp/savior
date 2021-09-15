@@ -267,14 +267,14 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.pkgtw
-Version: 0.8.7-1
+Version: 0.9.0
 Section: Apps
 Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Architecture: iphoneos-arm
-Filename: debs//KGTW0.8.7-1.deb
-Size: 11444452
-MD5sum: f155c66867628d0b555a9b4392d409c1
+Filename: debs//KGTW0.9.0.deb
+Size: 11947278
+MD5sum: 85e0fee50e89882f36c643b6e21f3a67
 Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id/buff reborn time. 6. AutoAim.
 Name: pKGTW
 Author: Savior
