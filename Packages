@@ -520,6 +520,21 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.pstarwars
+Version: 0.2.0
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//StarWars0.2.0.deb
+Size: 12000952
+MD5sum: 361dfcaf15d477f83c4461a07f95de09
+Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Player hp multiplier.
+Name: pStarWars
+Author: Savior
+Homepage: 
+Depiction: 
+
+Package: tw.blogspot.myappios.pstarwars
 Version: 0.1.4
 Section: Apps
 Maintainer: Savior
