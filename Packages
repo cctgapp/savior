@@ -41,6 +41,21 @@ Author: Savior
 Homepage: 
 Depiction: 
 
+Package: tw.blogspot.myappios.parchero
+Version: 0.7.0
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//Archero0.7.0.deb
+Size: 10794838
+MD5sum: ad4a00ef55984a0fbf43df6d3eaecce0
+Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase item drop rate.
+Name: pArchero
+Author: Savior
+Homepage: 
+Depiction: 
+
 Package: tw.blogspot.myappios.parknights
 Version: 0.1.1
 Section: Apps
