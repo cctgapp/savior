@@ -207,6 +207,21 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.pherocantare
+Version: 0.2.0
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//HCGlobal0.2.0.deb
+Size: 11968242
+MD5sum: 9bbba34ef2db70f4379add0a84fb3c4d
+Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
+Name: pHeroCantare
+Author: Savior
+Homepage: 
+Depiction: 
+
+Package: tw.blogspot.myappios.pherocantare
 Version: 0.1.4
 Section: Apps
 Maintainer: Savior
