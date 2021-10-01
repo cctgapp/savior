@@ -27,21 +27,6 @@ Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
 Depiction: 
 
 Package: tw.blogspot.myappios.parchero
-Version: 0.6.1
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//Archero0.6.1.deb
-Size: 11377272
-MD5sum: d7e4a890f152772a21fde00e6ee38fd9
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate. 7. Increase sapphire rate.
-Name: pArchero
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.parchero
 Version: 0.7.0
 Section: Apps
 Maintainer: Savior
@@ -52,21 +37,6 @@ Size: 10794838
 MD5sum: ad4a00ef55984a0fbf43df6d3eaecce0
 Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase item drop rate.
 Name: pArchero
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.parknights
-Version: 0.1.1
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Architecture: iphoneos-arm
-Filename: debs//Arknights0.1.1.deb
-Size: 11390242
-MD5sum: 89f31318358e56e8a56172ff147a13fd
-Description: pArknights(明日方舟): 1. HP/SP/Atk Speed/Attack/Defense multiplier. 2. Accelerate?
-Name: pArknights
 Author: Savior
 Homepage: 
 Depiction: 
@@ -97,21 +67,6 @@ Size: 11366390
 MD5sum: 94b9a6b73b59be872eaa3896c4384ce8
 Description: Cloudia(最後的克勞迪亞): 1. SP Full. 2. HP/MP/Ether decrease divisor. 3. Accelerate?
 Name: pCloudia
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.pcodm
-Version: 0.3.0
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//CODM0.3.0.deb
-Size: 11419660
-MD5sum: bc1554e6f85fd2ab42115837e190e965
-Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil. 8. Counter UAV. 9. Tiny Crosshair. 10. Tiny Crosshair. 11. Show enemy name on match. 12. No chage view when prone. 13. TPP in FPP. 14. Silencer.
-Name: pCODM
 Author: Savior
 Homepage: 
 Depiction: 
@@ -176,21 +131,6 @@ Author: Savior
 Homepage: 
 Depiction: 
 
-Package: tw.blogspot.myappios.pfatego
-Version: 0.1.3
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//FateGoApp0.1.3.deb
-Size: 11383190
-MD5sum: 54d38580059d13a9da31f046be86da16
-Description: Fate/Grand Order patch. 1. One Hit Kill.
-Name: pFateGo
-Author: Savior
-Homepage: 
-Depiction: 
-
 Package: tw.blogspot.myappios.pgrandchase
 Version: 0.1.4
 Section: Apps
@@ -215,21 +155,6 @@ Architecture: iphoneos-arm
 Filename: debs//HCGlobal0.2.0.deb
 Size: 11968242
 MD5sum: 9bbba34ef2db70f4379add0a84fb3c4d
-Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
-Name: pHeroCantare
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.pherocantare
-Version: 0.1.4
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//HCGlobal0.1.4.deb
-Size: 11389178
-MD5sum: bac6a47f40d1c9c6ec438cd6fb624c02
 Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
 Name: pHeroCantare
 Author: Savior
@@ -282,21 +207,6 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.pkgtw
-Version: 0.8.8
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//KGTW0.8.8.deb
-Size: 11646684
-MD5sum: c286fa8dc49fbe23adb11b96372466d7
-Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id/buff reborn time. 6. AutoAim.
-Name: pKGTW
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.pkgtw
 Version: 0.9.0
 Section: Apps
 Maintainer: Savior
@@ -342,21 +252,6 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.pmyhero
-Version: 0.2.1
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//MyHeros0.2.1.deb
-Size: 11432008
-MD5sum: b0c42d3744b49cd861a654bef1e16efb
-Description: My Heros patch. 1. Attack multiplier. 2. Speed multiplier. 3. Enemy attack divisor. 4. Attack speed multiplier. 5. Auto Collect Item. 6. Wall Hack.
-Name: pMyHeros
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.pmyhero
 Version: 0.2.1-1
 Section: Apps
 Maintainer: Savior
@@ -387,21 +282,6 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.potherworld
-Version: 0.2.0
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//Otherworld0.2.0.deb
-Size: 11405464
-MD5sum: 00563792b519179ed96cb38f3d65699e
-Description: Otherworld Legend patch. 1. Move speed multiplier. 2. Damage multiplier. 3. HP multiplier. 4. Mana multiplier. 5. Gold rate multiplier. 6. No CD. 7. Unlock all heros.
-Name: pOtherworld
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.potherworld
 Version: 0.3.0
 Section: Apps
 Maintainer: Savior
@@ -412,36 +292,6 @@ Size: 12049872
 MD5sum: ce7a24247a4199144fb25ff962f00178
 Description: Otherworld Legend patch. 1. Move speed multiplier. 2. Damage multiplier. 3. HP multiplier. 4. Mana multiplier. 5. Gold rate multiplier. 6. No CD. 7. Unlock all heros.
 Name: pOtherworld
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.prandomdice
-Version: 0.3.6-5
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//RandomDice0.3.6-5.deb
-Size: 11797986
-MD5sum: e0c2e7322ca721366cc10339756b322f
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
-Name: pRandomDice
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.prandomdice
-Version: 0.3.6-4
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//RandomDice0.3.6-4.deb
-Size: 11673170
-MD5sum: 189973228bed38cedce602c96ee6128b
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
-Name: pRandomDice
 Author: Savior
 Homepage: 
 Depiction: 
@@ -477,6 +327,20 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.psoloknight
+Version: 0.0.8
+Section: Tweaks
+Maintainer: Savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//tw.blogspot.myappios.psoloknight_0.0.8_iphoneos-arm.deb
+Size: 22000
+Installed-Size: 104
+MD5sum: 5523267336ff1827b768f699b43bb324
+Description: Patch for Solo Knight 1.1.154. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
+Name: pSoloKnight
+Author: Savior
+
+Package: tw.blogspot.myappios.psoloknight
 Version: 0.0.7
 Section: Tweaks
 Maintainer: Savior
@@ -489,50 +353,6 @@ MD5sum: 227e3e5103d89468c61ef1f0b79882d9
 Description: Patch for Solo Knight 1.1.134. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
 Name: pSoloKnight
 Author: Savior
-
-Package: tw.blogspot.myappios.psoloknight
-Version: 0.0.6
-Section: Tweaks
-Maintainer: Savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//tw.blogspot.myappios.psoloknight_0.0.6_iphoneos-arm.deb
-Size: 22472
-Installed-Size: 104
-MD5sum: 0326461086c17dcd875704191cd5ac39
-Description: Patch for Solo Knight 1.1.128. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
-Name: pSoloKnight
-Author: Savior
-
-Package: tw.blogspot.myappios.psoulknight
-Version: 0.2.4
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//SoulKnight0.2.4.deb
-Size: 11604832
-MD5sum: ec9d3954c53176fed28dde9738eb1823
-Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Energy Multiplier.
-Name: pSoulKnight
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.psoulknight
-Version: 0.2.3
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//SoulKnight0.2.3.deb
-Size: 11406792
-MD5sum: 2dc32accb0b1c21eb1a02b916d6f6d33
-Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Energy Multiplier.
-Name: pSoulKnight
-Author: Savior
-Homepage: 
-Depiction: 
 
 Package: tw.blogspot.myappios.pstarwars
 Version: 0.2.0
@@ -549,21 +369,6 @@ Author: Savior
 Homepage: 
 Depiction: 
 
-Package: tw.blogspot.myappios.pstarwars
-Version: 0.1.4
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//StarWars0.1.4.deb
-Size: 11426410
-MD5sum: 9fef6274287c49a5c2e04b006b6af695
-Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Player hp multiplier.
-Name: pStarWars
-Author: Savior
-Homepage: 
-Depiction: 
-
 Package: tw.blogspot.myappios.pstateofsurvival
 Version: 0.2.0
 Section: Apps
@@ -573,21 +378,6 @@ Architecture: iphoneos-arm
 Filename: debs//StateOfSurvival0.2.0.deb
 Size: 11951338
 MD5sum: 4f91f80eb187b52747c007a904c8db44
-Description: State Of Survival patch. 1. Bothside attack multiplier.
-Name: pStateOfSurvival
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.pstateofsurvival
-Version: 0.1.2
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//StateOfSurvival0.1.2.deb
-Size: 11385082
-MD5sum: 07e8a25e007c2eb5b8bad88a24f5099a
 Description: State Of Survival patch. 1. Bothside attack multiplier.
 Name: pStateOfSurvival
 Author: Savior
@@ -639,35 +429,6 @@ Author: Savior
 Homepage: 
 Depiction: 
 
-Package: tw.blogspot.myappios.pwildrifttw
-Version: 0.0.5
-Section: Tweaks
-Maintainer: Savior
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs//tw.blogspot.myappios.pwildrifttw_0.0.5_iphoneos-arm.deb
-Size: 8972
-Installed-Size: 60
-MD5sum: ccbee87bab09a9b8366ad295385f7c6b
-Description: Map hack(No UI/No Switch) for LOLM - Wild Rift TW 2.2.0.
-Name: pWildRiftTW
-Author: Savior
-
-Package: tw.blogspot.myappios.pzooba
-Version: 0.3.0
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//ZoobaApp0.3.0.deb
-Size: 11385678
-MD5sum: fdeb7952cf8010893f91b65aee6bdc10
-Description: Zooba patch. 1. Enable map hack. 2. Sight Radius. 3. Ignore Prohibit. 4. Zoom.
-Name: pZooba
-Author: Savior
-Homepage: 
-Depiction: 
-
 Package: tw.blogspot.myappios.pzooba
 Version: 0.4.0
 Section: Apps
@@ -679,21 +440,6 @@ Size: 11222106
 MD5sum: 73d2be3e9b70d824d0023b141fcf9ec9
 Description: Zooba patch. 1. Enable map hack. 2. Sight Radius. 3. Ignore Prohibit. 4. Zoom.
 Name: pZooba
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.10.00
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//tospSetting0.10.00.deb
-Size: 12678982
-MD5sum: 52344c2e18b39ab83827356a94d9dc7a
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速. 15.自動轉珠.
-Name: tosp設定
 Author: Savior
 Homepage: 
 Depiction: 
