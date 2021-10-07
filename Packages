@@ -354,6 +354,21 @@ Description: Patch for Solo Knight 1.1.134. 1. Damage X 100(攻擊100倍). 2. In
 Name: pSoloKnight
 Author: Savior
 
+Package: tw.blogspot.myappios.psoulknight
+Version: 0.3.0
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//SoulKnight0.3.0.deb
+Size: 11896530
+MD5sum: e2a7a9b56ac21bc867da6aed7f5bcfe9
+Description: Soul Knight patch. 1. Invincible. 2. Armor No Damage. 3. Energy Multiplier(not working now).
+Name: pSoulKnight
+Author: Savior
+Homepage: 
+Depiction: 
+
 Package: tw.blogspot.myappios.pstarwars
 Version: 0.2.0
 Section: Apps
