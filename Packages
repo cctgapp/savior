@@ -131,21 +131,6 @@ Author: Savior
 Homepage: 
 Depiction: 
 
-Package: tw.blogspot.myappios.pgrandchase
-Version: 0.1.4
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//GrandChase0.1.4.deb
-Size: 11392134
-MD5sum: 4d5762d353226ffda25bc8d6407b59bb
-Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
-Name: pGrandChase
-Author: Savior
-Homepage: 
-Depiction: 
-
 Package: tw.blogspot.myappios.pherocantare
 Version: 0.2.0
 Section: Apps
