@@ -25,6 +25,20 @@ Description: modified version of unbox from h2co3 to use rocketbootstrap
 Name: ccunboxd
 Author: cc
 
+Package: tw.blog.myappios.peclispe
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//tw.blog.myappios.peclispe_0.0.1_iphoneos-arm.deb
+Size: 97908
+Installed-Size: 304
+MD5sum: 70e6b3ff660e38e9391eb3bfa17af77d
+Description: Patch for Eclipse.
+Name: pEclipse
+Author: Savior
+
 Package: tw.blogspot.myappios.TOS-Savior
 Version: 2.2.6
 Section: Apps
