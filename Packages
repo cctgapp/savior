@@ -12,6 +12,20 @@ Description: Patch for SuperWizard 1.2.2. Features: Attack/Defense/Speed.
 Name: pSuperWizard
 Author: savior
 
+Package: ios.game.psuperwizard
+Version: 0.0.2
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.psuperwizard_0.0.2_iphoneos-arm.deb
+Size: 100882
+Installed-Size: 304
+MD5sum: 37cb7d9ed7f589799b89501a9c927eba
+Description: Patch for SuperWizard 1.2.3. Features: Attack/Defense/Speed.
+Name: pSuperWizard
+Author: savior
+
 Package: org.cc.unboxd
 Version: 0.0.2+debug
 Section: System
