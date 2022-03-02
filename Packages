@@ -1,3 +1,17 @@
+Package: ios.game.ppunball
+Version: 0.0.1
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.ppunball_0.0.1_iphoneos-arm.deb
+Size: 72470
+Installed-Size: 240
+MD5sum: 7a18c390788e1f299bc1e1249bb90922
+Description: Patch for PunBall 1.6.0. Features: 1. Atk. 2. Def.
+Name: pPunBall
+Author: savior
+
 Package: ios.game.psuperwizard
 Version: 0.0.1
 Section: Tweaks
