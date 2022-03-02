@@ -1,3 +1,17 @@
+Package: ios.game.idlecus
+Version: 0.0.1
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.idlecus_0.0.1_iphoneos-arm.deb
+Size: 95540
+Installed-Size: 288
+MD5sum: f7cc8bd97acf3855e9c4e76d7529b90e
+Description: Patch for Idlecus. Features: 1. Atk. 2. Def.
+Name: pIdlecus
+Author: savior
+
 Package: ios.game.ppunball
 Version: 0.0.1
 Section: Tweaks
