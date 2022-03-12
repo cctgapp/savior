@@ -26,6 +26,20 @@ Description: patch for TailedDemonSlayer 1.2.35.
 Name: pDemonSlayer
 Author: savior
 
+Package: ios.game.pdemonslayer
+Version: 0.0.2
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.pdemonslayer_0.0.2_iphoneos-arm.deb
+Size: 105410
+Installed-Size: 320
+MD5sum: 03ebc042210c5c15a9461c17f833f9ae
+Description: patch for TailedDemonSlayer 1.2.41.
+Name: pDemonSlayer
+Author: savior
+
 Package: ios.game.ppunball
 Version: 0.0.1
 Section: Tweaks
@@ -38,20 +52,6 @@ Installed-Size: 240
 MD5sum: 7a18c390788e1f299bc1e1249bb90922
 Description: Patch for PunBall 1.6.0. Features: 1. Atk. 2. Def.
 Name: pPunBall
-Author: savior
-
-Package: ios.game.psuperwizard
-Version: 0.0.1
-Section: Tweaks
-Maintainer: savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//ios.game.psuperwizard_0.0.1_iphoneos-arm.deb
-Size: 101192
-Installed-Size: 304
-MD5sum: a9dcf784f20c0670e23cc9b036a4585a
-Description: Patch for SuperWizard 1.2.2. Features: Attack/Defense/Speed.
-Name: pSuperWizard
 Author: savior
 
 Package: ios.game.psuperwizard
@@ -406,20 +406,6 @@ Size: 93148
 Installed-Size: 272
 MD5sum: 377e04fa84fffe6fe588060cc332ecdd
 Description: Patch for Solo Knight 1.1.231. 0. Double tap by 2 fingers to open/close menu. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
-Name: pSoloKnight
-Author: Savior
-
-Package: tw.blogspot.myappios.psoloknight
-Version: 0.0.18
-Section: Tweaks
-Maintainer: Savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//tw.blogspot.myappios.psoloknight_0.0.18_iphoneos-arm.deb
-Size: 92846
-Installed-Size: 272
-MD5sum: aa90d2b7b19ceb320a7f1f6f78735650
-Description: Patch for Solo Knight 1.1.220. 0. Double tap by 2 fingers to open/close menu. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
 Name: pSoloKnight
 Author: Savior
 
