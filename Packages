@@ -410,6 +410,20 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.psoloknight
+Version: 0.0.20
+Section: Tweaks
+Maintainer: Savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//tw.blogspot.myappios.psoloknight_0.0.20_iphoneos-arm.deb
+Size: 92360
+Installed-Size: 272
+MD5sum: cdc18a50f45727d03ed7d2c6fb00bd90
+Description: Patch for Solo Knight 1.1.235. 0. Double tap by 2 fingers to open/close menu. 1. Damage X 100(攻擊100倍). 2. Invinsible(無敵). 3. Infinite Mana(Mana無限). 4. 0CD.
+Name: pSoloKnight
+Author: Savior
+
+Package: tw.blogspot.myappios.psoloknight
 Version: 0.0.19
 Section: Tweaks
 Maintainer: Savior
