@@ -12,6 +12,20 @@ Description: Patch for Idlecus. Features: 1. Atk. 2. Def.
 Name: pIdlecus
 Author: savior
 
+Package: ios.game.idlecus
+Version: 0.0.2
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.idlecus_0.0.2_iphoneos-arm.deb
+Size: 95154
+Installed-Size: 288
+MD5sum: efc50cbb053a9c736698ad7f9fa6482b
+Description: Patch for Idlecus 2.51. Features: 1. Atk. 2. Def.
+Name: pIdlecus
+Author: savior
+
 Package: ios.game.pdemonslayer
 Version: 0.0.1
 Section: Tweaks
