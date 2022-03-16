@@ -27,16 +27,16 @@ Name: pIdlecus
 Author: savior
 
 Package: ios.game.pdemonslayer
-Version: 0.0.1
+Version: 0.0.3
 Section: Tweaks
 Maintainer: savior
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs//ios.game.pdemonslayer_0.0.1_iphoneos-arm.deb
-Size: 104674
+Filename: debs//ios.game.pdemonslayer_0.0.3_iphoneos-arm.deb
+Size: 104500
 Installed-Size: 320
-MD5sum: feca3b36686b8c8c371da665cdecb3ca
-Description: patch for TailedDemonSlayer 1.2.35.
+MD5sum: 34d785163be7775c33821e06f22abf98
+Description: patch for TailedDemonSlayer 1.2.42.
 Name: pDemonSlayer
 Author: savior
 
