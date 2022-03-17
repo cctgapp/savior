@@ -1,18 +1,4 @@
 Package: ios.game.idlecus
-Version: 0.0.1
-Section: Tweaks
-Maintainer: savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//ios.game.idlecus_0.0.1_iphoneos-arm.deb
-Size: 95540
-Installed-Size: 288
-MD5sum: f7cc8bd97acf3855e9c4e76d7529b90e
-Description: Patch for Idlecus. Features: 1. Atk. 2. Def.
-Name: pIdlecus
-Author: savior
-
-Package: ios.game.idlecus
 Version: 0.0.2
 Section: Tweaks
 Maintainer: savior
@@ -23,6 +9,20 @@ Size: 95154
 Installed-Size: 288
 MD5sum: efc50cbb053a9c736698ad7f9fa6482b
 Description: Patch for Idlecus 2.51. Features: 1. Atk. 2. Def.
+Name: pIdlecus
+Author: savior
+
+Package: ios.game.idlecus
+Version: 0.0.3
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.idlecus_0.0.3_iphoneos-arm.deb
+Size: 95440
+Installed-Size: 288
+MD5sum: 6202fa2a5ac22c7c28a9f71c25d11746
+Description: Patch for Idlecus 2.52. Features: 1. Atk. 2. Def.
 Name: pIdlecus
 Author: savior
 
