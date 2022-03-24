@@ -54,20 +54,6 @@ Description: Patch for SuperWizard 1.2.5. Features: Attack/Defense/Speed.
 Name: pSuperWizard
 Author: savior
 
-Package: ios.game.psuperwizard
-Version: 0.0.3
-Section: Tweaks
-Maintainer: savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//ios.game.psuperwizard_0.0.3_iphoneos-arm.deb
-Size: 101098
-Installed-Size: 304
-MD5sum: dd48e3fc340cf43c224ac7cbb09e797d
-Description: Patch for SuperWizard 1.2.4. Features: Attack/Defense/Speed.
-Name: pSuperWizard
-Author: savior
-
 Package: org.cc.unboxd
 Version: 0.0.2+debug
 Section: System
@@ -510,6 +496,21 @@ Size: 11222106
 MD5sum: 73d2be3e9b70d824d0023b141fcf9ec9
 Description: Zooba patch. 1. Enable map hack. 2. Sight Radius. 3. Ignore Prohibit. 4. Zoom.
 Name: pZooba
+Author: Savior
+Homepage: 
+Depiction: 
+
+Package: tw.blogspot.myappios.tospatchsetting
+Version: 0.11.00
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//tospSetting0.11.0.deb
+Size: 12715076
+MD5sum: 2edb92938fda627442e8096c4b38992f
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速. 15.自動轉珠.
+Name: tosp設定
 Author: Savior
 Homepage: 
 Depiction: 
