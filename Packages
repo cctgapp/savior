@@ -1,4 +1,18 @@
 Package: ios.game.idlecus
+Version: 0.0.4
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.idlecus_0.0.4_iphoneos-arm.deb
+Size: 96240
+Installed-Size: 288
+MD5sum: 24690710abb232a429ad6e7d5981fa01
+Description: Patch for Idlecus 2.60. Features: 1. Atk. 2. Def.
+Name: pIdlecus
+Author: savior
+
+Package: ios.game.idlecus
 Version: 0.0.3
 Section: Tweaks
 Maintainer: savior
@@ -23,20 +37,6 @@ Size: 104980
 Installed-Size: 320
 MD5sum: e615d72d9501fbb0cb39bf65cb1c80cc
 Description: patch for TailedDemonSlayer 1.2.43.
-Name: pDemonSlayer
-Author: savior
-
-Package: ios.game.pdemonslayer
-Version: 0.0.3
-Section: Tweaks
-Maintainer: savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//ios.game.pdemonslayer_0.0.3_iphoneos-arm.deb
-Size: 104500
-Installed-Size: 320
-MD5sum: 34d785163be7775c33821e06f22abf98
-Description: patch for TailedDemonSlayer 1.2.42.
 Name: pDemonSlayer
 Author: savior
 
@@ -523,21 +523,6 @@ Architecture: iphoneos-arm
 Filename: debs//tospSetting0.11.0.deb
 Size: 12715076
 MD5sum: 2edb92938fda627442e8096c4b38992f
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速. 15.自動轉珠.
-Name: tosp設定
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.10.01
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//tospSetting0.10.01.deb
-Size: 12732060
-MD5sum: c37c4cd2dad4a82b048539eded108686
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速. 15.自動轉珠.
 Name: tosp設定
 Author: Savior
