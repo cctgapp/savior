@@ -12,20 +12,6 @@ Description: Patch for Idlecus 2.60. Features: 1. Atk. 2. Def.
 Name: pIdlecus
 Author: savior
 
-Package: ios.game.idlecus
-Version: 0.0.3
-Section: Tweaks
-Maintainer: savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//ios.game.idlecus_0.0.3_iphoneos-arm.deb
-Size: 95440
-Installed-Size: 288
-MD5sum: 6202fa2a5ac22c7c28a9f71c25d11746
-Description: Patch for Idlecus 2.52. Features: 1. Atk. 2. Def.
-Name: pIdlecus
-Author: savior
-
 Package: ios.game.pdemonslayer
 Version: 0.0.4
 Section: Tweaks
@@ -52,6 +38,34 @@ Installed-Size: 240
 MD5sum: 7a18c390788e1f299bc1e1249bb90922
 Description: Patch for PunBall 1.6.0. Features: 1. Atk. 2. Def.
 Name: pPunBall
+Author: savior
+
+Package: ios.game.ppunball
+Version: 0.0.2
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.ppunball_0.0.2_iphoneos-arm.deb
+Size: 71508
+Installed-Size: 220
+MD5sum: 0b93cf16f42ef1b220ef75c23bce6ae8
+Description: Patch for PunBall 1.7.0. Features: 1. Atk. 2. Def.
+Name: pPunBall
+Author: savior
+
+Package: ios.game.psuperwizard
+Version: 0.0.5
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.psuperwizard_0.0.5_iphoneos-arm.deb
+Size: 188900
+Installed-Size: 632
+MD5sum: 9e9b67922e0ded362f90bdb7895280c3
+Description: Patch for SuperWizard 1.2.6. Features: Attack/Defense/Speed.
+Name: pSuperWizard
 Author: savior
 
 Package: ios.game.psuperwizard
