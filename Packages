@@ -54,20 +54,6 @@ Description: Patch for SuperWizard 1.3.2. Features: Attack/Defense/Speed.
 Name: pSuperWizard
 Author: savior
 
-Package: ios.game.psuperwizard
-Version: 0.0.6
-Section: Tweaks
-Maintainer: savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//ios.game.psuperwizard_0.0.6_iphoneos-arm.deb
-Size: 11810
-Installed-Size: 76
-MD5sum: 49226574ff40c1a6514b3d6a3d528b24
-Description: Patch for SuperWizard 1.2.9. Features: Attack/Defense/Speed.
-Name: pSuperWizard
-Author: savior
-
 Package: org.cc.unboxd
 Version: 0.0.2+debug
 Section: System
@@ -286,6 +272,21 @@ Size: 11409974
 MD5sum: cb89161bab519911b360efcffad1cee5
 Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration. 3. Get all stars(Story Mode). 4. Disable AI.
 Name: pKartRiderRush
+Author: Savior
+Homepage: 
+Depiction: 
+
+Package: tw.blogspot.myappios.pkgtw
+Version: 0.9.0-1
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//KGTW0.9.0-1.deb
+Size: 12018778
+MD5sum: 888011a1e704d22160cf7bc75c446542
+Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id/buff reborn time. 6. AutoAim.
+Name: pKGTW
 Author: Savior
 Homepage: 
 Depiction: 
