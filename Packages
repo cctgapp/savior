@@ -40,6 +40,20 @@ Description: Patch for PunBall 1.8.0. Features: 1. Atk. 2. Def.
 Name: pPunBall
 Author: savior
 
+Package: ios.game.ppunball
+Version: 0.0.5
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.ppunball_0.0.5_iphoneos-arm.deb
+Size: 51650
+Installed-Size: 208
+MD5sum: 8e0fef75b152f76a6c8bd205c595ca2c
+Description: Patch for PunBall 1.9.0. Features: 1. Atk. 2. Def.
+Name: pPunBall
+Author: savior
+
 Package: ios.game.psuperwizard
 Version: 0.0.7
 Section: Tweaks
@@ -201,21 +215,6 @@ Author: Savior
 Homepage: 
 Depiction: 
 
-Package: tw.blogspot.myappios.pfatego
-Version: 0.1.4
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//FateGoApp0.1.4.deb
-Size: 11639354
-MD5sum: 2957ee3af69f2ef60e178646a5892d92
-Description: Fate/Grand Order patch. 1. One Hit Kill.
-Name: pFateGo
-Author: Savior
-Homepage: 
-Depiction: 
-
 Package: tw.blogspot.myappios.pherocantare
 Version: 0.2.0
 Section: Apps
@@ -272,21 +271,6 @@ Size: 11409974
 MD5sum: cb89161bab519911b360efcffad1cee5
 Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration. 3. Get all stars(Story Mode). 4. Disable AI.
 Name: pKartRiderRush
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.pkgtw
-Version: 0.9.0-1
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//KGTW0.9.0-1.deb
-Size: 12018778
-MD5sum: 888011a1e704d22160cf7bc75c446542
-Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id/buff reborn time. 6. AutoAim.
-Name: pKGTW
 Author: Savior
 Homepage: 
 Depiction: 
