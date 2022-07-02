@@ -27,20 +27,6 @@ Name: pDemonSlayer
 Author: savior
 
 Package: ios.game.ppunball
-Version: 0.0.4
-Section: Tweaks
-Maintainer: savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//ios.game.ppunball_0.0.4_iphoneos-arm.deb
-Size: 51750
-Installed-Size: 204
-MD5sum: 93a77ce7c313dc13b0e77a3dc6c8f886
-Description: Patch for PunBall 1.8.0. Features: 1. Atk. 2. Def.
-Name: pPunBall
-Author: savior
-
-Package: ios.game.ppunball
 Version: 0.0.5
 Section: Tweaks
 Maintainer: savior
@@ -51,6 +37,20 @@ Size: 51650
 Installed-Size: 208
 MD5sum: 8e0fef75b152f76a6c8bd205c595ca2c
 Description: Patch for PunBall 1.9.0. Features: 1. Atk. 2. Def.
+Name: pPunBall
+Author: savior
+
+Package: ios.game.ppunball
+Version: 0.0.6
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.ppunball_0.0.6_iphoneos-arm.deb
+Size: 84954
+Installed-Size: 304
+MD5sum: 8ecd7a3ea9d5115585993f637d560bbd
+Description: Patch for PunBall 2.0.1. Features: 1. Atk. 2. Def.
 Name: pPunBall
 Author: savior
 
@@ -510,21 +510,6 @@ Size: 11222106
 MD5sum: 73d2be3e9b70d824d0023b141fcf9ec9
 Description: Zooba patch. 1. Enable map hack. 2. Sight Radius. 3. Ignore Prohibit. 4. Zoom.
 Name: pZooba
-Author: Savior
-Homepage: 
-Depiction: 
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.11.02
-Section: Apps
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs//tospSetting0.11.02.deb
-Size: 13231628
-MD5sum: e9d305a7364f517236ff979b5b8dc1ad
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速. 15.自動轉珠.
-Name: tosp設定
 Author: Savior
 Homepage: 
 Depiction: 
