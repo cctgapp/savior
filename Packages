@@ -55,16 +55,16 @@ Name: pSuperWizard
 Author: savior
 
 Package: ios.game.psuperwizard
-Version: 0.0.7
+Version: 0.0.9
 Section: Tweaks
 Maintainer: savior
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs//ios.game.psuperwizard_0.0.7_iphoneos-arm.deb
-Size: 142546
-Installed-Size: 472
-MD5sum: e428a28cb40fb1c93d3b6ac777e51ce3
-Description: Patch for SuperWizard 1.3.2. Features: Attack/Defense/Speed.
+Filename: debs//ios.game.psuperwizard_0.0.9_iphoneos-arm.deb
+Size: 148964
+Installed-Size: 488
+MD5sum: 189ecb2a4cbd9344d320e654421f20e0
+Description: Patch for SuperWizard 1.3.9. Features: Attack/Defense/Speed.
 Name: pSuperWizard
 Author: savior
 
