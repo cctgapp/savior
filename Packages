@@ -41,16 +41,16 @@ Name: pPunBall
 Author: savior
 
 Package: ios.game.psuperwizard
-Version: 0.0.8
+Version: 0.0.10
 Section: Tweaks
 Maintainer: savior
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs//ios.game.psuperwizard_0.0.8_iphoneos-arm.deb
-Size: 152040
+Filename: debs//ios.game.psuperwizard_0.0.10_iphoneos-arm.deb
+Size: 151244
 Installed-Size: 504
-MD5sum: c8862966f89dfb1a81724d1ae2e62640
-Description: Patch for SuperWizard 1.3.9. Features: Attack/Defense/Speed.
+MD5sum: 3c3a10e1169069c1ac6e06a01eea1038
+Description: Patch for SuperWizard 1.4.0. Features: Attack/Defense/Speed.
 Name: pSuperWizard
 Author: savior
 
