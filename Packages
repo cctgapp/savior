@@ -40,6 +40,20 @@ Description: Patch for PunBall 2.0.1. Features: 1. Atk. 2. Def.
 Name: pPunBall
 Author: savior
 
+Package: ios.game.ppunball
+Version: 0.0.7
+Section: Tweaks
+Maintainer: savior
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//ios.game.ppunball_0.0.7_iphoneos-arm.deb
+Size: 84938
+Installed-Size: 304
+MD5sum: b0093c1ea11aa87d660e696ba033a306
+Description: Patch for PunBall 2.1.0. Features: 1. Atk. 2. Def.
+Name: pPunBall
+Author: savior
+
 Package: ios.game.psuperwizard
 Version: 0.0.11
 Section: Tweaks
@@ -51,20 +65,6 @@ Size: 144988
 Installed-Size: 472
 MD5sum: 14829cc6bc6fc8136510a569b58f44d7
 Description: Patch for SuperWizard 1.4.1. Features: Attack/Defense/Speed.
-Name: pSuperWizard
-Author: savior
-
-Package: ios.game.psuperwizard
-Version: 0.0.10
-Section: Tweaks
-Maintainer: savior
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//ios.game.psuperwizard_0.0.10_iphoneos-arm.deb
-Size: 151244
-Installed-Size: 504
-MD5sum: 3c3a10e1169069c1ac6e06a01eea1038
-Description: Patch for SuperWizard 1.4.0. Features: Attack/Defense/Speed.
 Name: pSuperWizard
 Author: savior
 
