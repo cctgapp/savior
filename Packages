@@ -41,16 +41,16 @@ Name: pPunBall
 Author: savior
 
 Package: ios.game.ppunball
-Version: 0.0.8
+Version: 0.0.10
 Section: Tweaks
 Maintainer: savior
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs//ios.game.ppunball_0.0.8_iphoneos-arm.deb
-Size: 31190
+Filename: debs//ios.game.ppunball_0.0.10_iphoneos-arm.deb
+Size: 31256
 Installed-Size: 128
-MD5sum: 836a5ab5fb2235f1808dabc3ff2662f8
-Description: Patch for PunBall 2.1.1. Features: 1. Atk. 2. Def.
+MD5sum: 7a13a8f247416afc8a2c112d0a9d1dfe
+Description: Patch for PunBall 2.2.1. Features: 1. Atk. 2. Def.
 Name: pPunBall
 Author: savior
 
