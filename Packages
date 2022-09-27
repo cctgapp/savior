@@ -27,16 +27,16 @@ Name: pDemonSlayer
 Author: savior
 
 Package: ios.game.ppunball
-Version: 0.0.9
+Version: 0.0.11
 Section: Tweaks
 Maintainer: savior
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs//ios.game.ppunball_0.0.9_iphoneos-arm.deb
-Size: 31384
-Installed-Size: 144
-MD5sum: 99f9eb31b300dc305df31ae1770fb3b8
-Description: Patch for PunBall 2.1.2. Features: 1. Atk. 2. Def.
+Filename: debs//ios.game.ppunball_0.0.11_iphoneos-arm.deb
+Size: 48538
+Installed-Size: 176
+MD5sum: 43c72819f9087b0bc01c3d7e1a3ad680
+Description: Patch for PunBall 2.3.1. Features: 1. Atk. 2. Def.
 Name: pPunBall
 Author: savior
 
