@@ -1,5 +1,7 @@
 支援遊戲一覽表：
 
+https://raw.githubusercontent.com/cctgapp/savior/master/list.txt
+
 1. 70億殭屍金子(7BZombies) 功能：攻擊/防禦/無敵/攻速/移速/冷卻/金幣
 2. 弓箭手養成(ArcherForest) 功能：攻擊/攻速/防禦/金幣/增獎勵/不消耗
 3. 弓箭傳說(Archero) 功能：攻擊/防禦/金幣/經驗/裝備/物品
@@ -41,19 +43,20 @@
 39. 地球淨化工程(ProjectCleanEarth) 功能：攻擊/防禦/電池不減/寶石不減/晶片不減
 40. 怪獸培養(RaisingMonster) 功能：攻擊/防禦/獎勵/經驗/速度/冷卻
 41. Random Dice 功能：+SP/x-SP/Trophy
-42. 刀劍神域 火線爭戰(SAOVS) 功能：攻擊/防禦
-43. 香腸派對(Sausage) 功能：無後座力/無晃動/無槍口火花/無槍弓聲/視野範圍/移動加速/黑人/地圖/自動射擊
-44. 合合合英雄/史萊姆軍團(Slime Legion) 功能：攻擊/防禦/經驗
-45. 瘋狂大兵(SoldiersNeverDie) 功能：攻擊/防禦/速度/金幣/寶石/經驗
-46. 索爾加德(Solgard) 功能：攻擊/防禦
-47. 神靈炮手(SoulLauncher) 功能：攻擊/防禦/金幣/寶石/無敵/不耗MP/無冷卻
-48. 塔防傳說-魔獸征服者(Summoner) 功能：攻擊/金幣/寶石/無消耗
-49. 噠噠特攻(Survivor.io) 功能：攻擊/防禦/金幣/攻擊力
-50. T3 Arena 功能：透視敵人名字/透視敵人身體/無後坐力
-51. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
-52. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
-53. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
-54. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
-55. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
-56. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
-57. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
+42. 隨機骰子：GO(Random Dice: GO) 功能：攻擊/防禦/合成
+43. 刀劍神域 火線爭戰(SAOVS) 功能：攻擊/防禦
+44. 香腸派對(Sausage) 功能：無後座力/無晃動/無槍口火花/無槍弓聲/視野範圍/移動加速/黑人/地圖/自動射擊
+45. 合合合英雄/史萊姆軍團(Slime Legion) 功能：攻擊/防禦/經驗
+46. 瘋狂大兵(SoldiersNeverDie) 功能：攻擊/防禦/速度/金幣/寶石/經驗
+47. 索爾加德(Solgard) 功能：攻擊/防禦
+48. 神靈炮手(SoulLauncher) 功能：攻擊/防禦/金幣/寶石/無敵/不耗MP/無冷卻
+49. 塔防傳說-魔獸征服者(Summoner) 功能：攻擊/金幣/寶石/無消耗
+50. 噠噠特攻(Survivor.io) 功能：攻擊/防禦/金幣/攻擊力
+51. T3 Arena 功能：透視敵人名字/透視敵人身體/無後坐力
+52. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
+53. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
+54. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
+55. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
+56. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
+57. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
+58. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
