@@ -1,4 +1,5 @@
 支援遊戲一覽表：
+
 1. 70億殭屍金子(7BZombies) 功能：攻擊/防禦/無敵/攻速/移速/冷卻/金幣
 2. 弓箭手養成(ArcherForest) 功能：攻擊/攻速/防禦/金幣/增獎勵/不消耗
 3. 弓箭傳說(Archero) 功能：攻擊/防禦/金幣/經驗/裝備/物品
@@ -53,9 +54,10 @@
 52. 噠噠特攻(Survivor.io) 功能：攻擊/防禦/金幣/攻擊力
 53. T3 Arena 功能：透視敵人名字/透視敵人身體/無後坐力
 54. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
-55. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
-56. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
-57. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
-58. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
-59. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
-60. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
+55. 達卡拉物語(The Legend of Takara) 功能：攻擊/防禦/MP不減
+56. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
+57. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
+58. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
+59. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
+60. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
+61. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
