@@ -1,4 +1,3 @@
-
 支援遊戲一覽表：
 
 1. 70億殭屍金子(7BZombies) 功能：攻擊/防禦/無敵/攻速/移速/冷卻/金幣
@@ -63,12 +62,13 @@
 60. 塔防傳說-魔獸征服者(Summoner) 功能：攻擊/金幣/寶石/無消耗
 61. 噠噠特攻(Survivor.io) 功能：攻擊/防禦/金幣/攻擊力
 62. T3 Arena 功能：透視敵人名字/透視敵人身體/無後坐力
-63. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
-64. 達卡拉物語(The Legend of Takara) 功能：攻擊/防禦/MP不減
-65. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
-66. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
-67. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
-68. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
-69. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
-70. 浣熊不高興(Unhappy Raccoon) 功能：攻擊/防禦/移動速度/CD/攻擊力/護盾
-71. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
+63. 有尾的惡魔殺手：崛起(Tailed Demon Slayer: RISE) 功能：攻擊/防禦/金幣不減
+64. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
+65. 達卡拉物語(The Legend of Takara) 功能：攻擊/防禦/MP不減
+66. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
+67. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
+68. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
+69. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
+70. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
+71. 浣熊不高興(Unhappy Raccoon) 功能：攻擊/防禦/移動速度/CD/攻擊力/護盾
+72. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
