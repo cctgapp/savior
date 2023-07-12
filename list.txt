@@ -1,15 +1,13 @@
-https://raw.githubusercontent.com/cctgapp/savior/master/list.txt
-
 支援遊戲一覽表：
 
 1. 70億殭屍金子(7BZombies) 功能：攻擊/防禦/無敵/攻速/移速/冷卻/金幣
-2. 深淵Abyss(ABYSS) 功能：敵人攻擊/敵人防禦/敵人生命/能量/速度
-3. 弓箭手養成(ArcherForest) 功能：攻擊/攻速/防禦/金幣/增獎勵/不消耗
-4. 弓箭傳說(Archero) 功能：攻擊/防禦/金幣/經驗/裝備/物品
-5. 傳說對決(ArenaOfValor) 功能：視距/自瞄/地圖/資訊/Buff
-6. 明日方舟(arknights) 功能：生命/攻速/攻擊/SP/防禦
-7. 機器人世界(BotWorld Adventure) 功能：攻擊/防禦/金幣/無花費/物品/經驗
-8. Brotato 功能：攻擊/防禦/速度/經驗/不耗馬鈴薯
+2. 弓箭手養成(ArcherForest) 功能：攻擊/攻速/防禦/金幣/增獎勵/不消耗
+3. 弓箭傳說(Archero) 功能：攻擊/防禦/金幣/經驗/裝備/物品
+4. 傳說對決(ArenaOfValor) 功能：視距/自瞄/地圖/資訊/Buff
+5. 明日方舟(arknights) 功能：生命/攻速/攻擊/SP/防禦
+6. 機器人世界(BotWorld Adventure) 功能：攻擊/防禦/金幣/無花費/物品/經驗
+7. Brotato 功能：攻擊/防禦/速度/經驗/不耗馬鈴薯
+8. 棕色塵埃2(BrownDust2) 功能：攻擊/防禦
 9. 卡拉希爾戰記(Calibria: Crystal Guardians) 功能：攻擊/防禦
 10. 薑餅人王國(CookieRunKindom) 功能：攻擊/防禦/冷卻
 11. 最後的克勞迪亞(Cloudia) 功能：無敵/Eth/SP/MP
