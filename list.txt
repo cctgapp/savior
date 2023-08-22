@@ -53,36 +53,37 @@
 51. 循環地牢：放置類策略RPG(LoopDungeon) 功能：攻擊/防禦
 52. 街頭角斗士2(Maximus2) 功能：攻擊/防禦/金幣/免費角色/免費皮膚
 53. 來合體鴨2(MergeDuck2) 功能：自動勝利/無敵
-54. Mighty Party: Battle Heroes 功能：敵攻擊1/敵生命1/金幣/寶石/敵不攻擊
-55. Nanuleu 功能：攻擊/防禦/資源
-56. 雲圖計畫(NeuralCloud) 功能：攻擊/防禦
-57. 勝利女神：妮姬(Nikke) 功能：攻擊/防禦/彈夾時間
-58. 忍者大戰(NinjaBattle) 功能：攻擊/防禦/冷卻/攻速/無敵/一擊必殺
-59. 培養像素獵人(PixelHunterIdle) 功能：攻擊/防禦/攻速/移速/經驗
-60. 普朗特計劃(Plant) 功能：攻擊/防禦/經驗/彈夾無限
-61. 地球淨化工程(ProjectCleanEarth) 功能：攻擊/防禦/電池不減/寶石不減/晶片不減
-62. 怪獸培養(RaisingMonster) 功能：攻擊/防禦/獎勵/經驗/速度/冷卻
-63. Random Dice 功能：+SP/x-SP/Trophy
-64. 隨機骰子：GO(Random Dice: GO) 功能：攻擊/防禦/合成
-65. 刀劍神域 火線爭戰(SAOVS) 功能：攻擊/防禦
-66. 香腸派對(Sausage) 功能：無後座力/無晃動/無槍口火花/無槍弓聲/視野範圍/移動加速/黑人/地圖/自動射擊
-67. 罪石戰記(Sin Stone Saga) 功能：攻擊/無敵/經驗/速度
-68. 合合合英雄/史萊姆軍團(Slime Legion) 功能：攻擊/防禦/經驗
-69. 瘋狂大兵(SoldiersNeverDie) 功能：攻擊/防禦/速度/金幣/寶石/經驗
-70. 索爾加德(Solgard) 功能：攻擊/防禦
-71. 神靈炮手(SoulLauncher) 功能：攻擊/防禦/金幣/寶石/無敵/不耗MP/無冷卻
-72. 塔防傳說-魔獸征服者(Summoner) 功能：攻擊/金幣/寶石/無消耗
-73. 噠噠特攻(Survivor.io) 功能：攻擊/防禦/金幣/攻擊力
-74. T3 Arena 功能：透視敵人名字/透視敵人身體/無後坐力
-75. 有尾的惡魔殺手：崛起(Tailed Demon Slayer: RISE) 功能：攻擊/防禦/金幣不減
-76. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
-77. 達卡拉物語(The Legend of Takara) 功能：攻擊/防禦/MP不減
-78. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
-79. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
-80. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
-81. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
-82. 作戰指揮官(War Commander: Rogue Assault) 功能：攻擊/防禦/速度/攻擊距離/冷卻
-83. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
-84. 浣熊不高興(Unhappy Raccoon) 功能：攻擊/防禦/移動速度/CD/攻擊力/護盾
-85. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
-86. Zold:out 鍛造屋的物語(ZoldOut) 功能：攻擊/防禦/速度/消耗SP
+54. 合金彈頭：覺醒(Metal Slug: Awakening) 功能：攻擊/防禦
+55. Mighty Party: Battle Heroes 功能：敵攻擊1/敵生命1/金幣/寶石/敵不攻擊
+56. Nanuleu 功能：攻擊/防禦/資源
+57. 雲圖計畫(NeuralCloud) 功能：攻擊/防禦
+58. 勝利女神：妮姬(Nikke) 功能：攻擊/防禦/彈夾時間
+59. 忍者大戰(NinjaBattle) 功能：攻擊/防禦/冷卻/攻速/無敵/一擊必殺
+60. 培養像素獵人(PixelHunterIdle) 功能：攻擊/防禦/攻速/移速/經驗
+61. 普朗特計劃(Plant) 功能：攻擊/防禦/經驗/彈夾無限
+62. 地球淨化工程(ProjectCleanEarth) 功能：攻擊/防禦/電池不減/寶石不減/晶片不減
+63. 怪獸培養(RaisingMonster) 功能：攻擊/防禦/獎勵/經驗/速度/冷卻
+64. Random Dice 功能：+SP/x-SP/Trophy
+65. 隨機骰子：GO(Random Dice: GO) 功能：攻擊/防禦/合成
+66. 刀劍神域 火線爭戰(SAOVS) 功能：攻擊/防禦
+67. 香腸派對(Sausage) 功能：無後座力/無晃動/無槍口火花/無槍弓聲/視野範圍/移動加速/黑人/地圖/自動射擊
+68. 罪石戰記(Sin Stone Saga) 功能：攻擊/無敵/經驗/速度
+69. 合合合英雄/史萊姆軍團(Slime Legion) 功能：攻擊/防禦/經驗
+70. 瘋狂大兵(SoldiersNeverDie) 功能：攻擊/防禦/速度/金幣/寶石/經驗
+71. 索爾加德(Solgard) 功能：攻擊/防禦
+72. 神靈炮手(SoulLauncher) 功能：攻擊/防禦/金幣/寶石/無敵/不耗MP/無冷卻
+73. 塔防傳說-魔獸征服者(Summoner) 功能：攻擊/金幣/寶石/無消耗
+74. 噠噠特攻(Survivor.io) 功能：攻擊/防禦/金幣/攻擊力
+75. T3 Arena 功能：透視敵人名字/透視敵人身體/無後坐力
+76. 有尾的惡魔殺手：崛起(Tailed Demon Slayer: RISE) 功能：攻擊/防禦/金幣不減
+77. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
+78. 達卡拉物語(The Legend of Takara) 功能：攻擊/防禦/MP不減
+79. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
+80. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
+81. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
+82. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
+83. 作戰指揮官(War Commander: Rogue Assault) 功能：攻擊/防禦/速度/攻擊距離/冷卻
+84. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
+85. 浣熊不高興(Unhappy Raccoon) 功能：攻擊/防禦/移動速度/CD/攻擊力/護盾
+86. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
+87. Zold:out 鍛造屋的物語(ZoldOut) 功能：攻擊/防禦/速度/消耗SP
