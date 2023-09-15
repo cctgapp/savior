@@ -77,18 +77,19 @@
 75. 瘋狂大兵(SoldiersNeverDie) 功能：攻擊/防禦/速度/金幣/寶石/經驗
 76. 索爾加德(Solgard) 功能：攻擊/防禦
 77. 神靈炮手(SoulLauncher) 功能：攻擊/防禦/金幣/寶石/無敵/不耗MP/無冷卻
-78. 塔防傳說-魔獸征服者(Summoner) 功能：攻擊/金幣/寶石/無消耗
-79. 噠噠特攻(Survivor.io) 功能：攻擊/防禦/金幣/攻擊力
-80. T3 Arena 功能：透視敵人名字/透視敵人身體/無後坐力
-81. 有尾的惡魔殺手：崛起(Tailed Demon Slayer: RISE) 功能：攻擊/防禦/金幣不減
-82. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
-83. 達卡拉物語(The Legend of Takara) 功能：攻擊/防禦/MP不減
-84. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
-85. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
-86. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
-87. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
-88. 作戰指揮官(War Commander: Rogue Assault) 功能：攻擊/防禦/速度/攻擊距離/冷卻
-89. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
-90. 浣熊不高興(Unhappy Raccoon) 功能：攻擊/防禦/移動速度/CD/攻擊力/護盾
-91. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
-92. Zold:out 鍛造屋的物語(ZoldOut) 功能：攻擊/防禦/速度/消耗SP
+78. Stealth Master - 動作忍者遊戲(Stealth Master: Assassin Ninja) 功能：攻擊/防禦/解鎖英雄/金幣/代幣/寶石/碎片/不減/無廣告
+79. 塔防傳說-魔獸征服者(Summoner) 功能：攻擊/金幣/寶石/無消耗
+80. 噠噠特攻(Survivor.io) 功能：攻擊/防禦/金幣/攻擊力
+81. T3 Arena 功能：透視敵人名字/透視敵人身體/無後坐力
+82. 有尾的惡魔殺手：崛起(Tailed Demon Slayer: RISE) 功能：攻擊/防禦/金幣不減
+83. The Tower - Idle Tower Defense 功能：OHK/防禦/Coins/Cash
+84. 達卡拉物語(The Legend of Takara) 功能：攻擊/防禦/MP不減
+85. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
+86. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
+87. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
+88. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
+89. 作戰指揮官(War Commander: Rogue Assault) 功能：攻擊/防禦/速度/攻擊距離/冷卻
+90. 激鬥峽谷(Wildrift) 功能：開圖/視野距離
+91. 浣熊不高興(Unhappy Raccoon) 功能：攻擊/防禦/移動速度/CD/攻擊力/護盾
+92. 異星指令(XenoCommand) 功能：攻擊/防禦/金屬
+93. Zold:out 鍛造屋的物語(ZoldOut) 功能：攻擊/防禦/速度/消耗SP
