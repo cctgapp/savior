@@ -291,6 +291,21 @@ Homepage:
 Depiction: 
 
 Package: tw.blogspot.myappios.plinechef
+Version: 0.2.0
+Section: Apps
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//LineChefApp0.2.0.deb
+Size: 11435294
+MD5sum: 35e51613a7b673f3ef6465e39a43105f
+Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier. 7. No burn Coating.
+Name: pLineChef
+Author: Savior
+Homepage: 
+Depiction: 
+
+Package: tw.blogspot.myappios.plinechef
 Version: 0.1.11
 Section: Apps
 Maintainer: Savior
