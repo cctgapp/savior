@@ -1,4 +1,6 @@
 
+https://raw.githubusercontent.com/cctgapp/savior/master/list.txt
+
 支援遊戲一覽表：
 
 1. 70億殭屍-生存(7BZombies) 功能：攻擊/防禦/無敵/攻速/移速/冷卻/金幣
@@ -135,7 +137,7 @@
 132. 迷你戰記：動作冒險RPG(TinyFantasy) 功能：攻擊/防禦/金幣/移速
 133. 小死神傳奇 (TinyReaper) 功能：攻擊/防禦/銀幣/經驗/冷卻
 134. Tower And Swords 功能：攻擊/防禦/MP不減/金幣/寶石/經驗
-135. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊
+135. 神魔之塔(TOS) 功能：版面/自轉(加300)/Combo/無技/時間/E防禦/E攻擊/不上榜/自動勝利
 136. 絕境小鎮Town Survivor(Town Survivor - Zombie Haunt) 功能：攻擊(全)/防禦(全)/門血恢復/門不扣血
 137. 吸血鬼倖存者(VampireSurvivals) 功能：攻擊/防禦/金幣/經驗/無敵/升級免費/角色免費
 138. 維日蘭特(Vigilante) 功能：攻擊/防禦/速度/冷卻
